@@ -6,7 +6,7 @@ import './app.css'
 export function App() {
   return (
     <>
-			<p>hello aryan</p>
+			<p>hello aryan pawan</p>
 	</>
   )
 }
